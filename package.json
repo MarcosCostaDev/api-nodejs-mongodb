@@ -16,7 +16,8 @@
     "http": "0.0.0",
     "jsonwebtoken": "^7.4.2",
     "md5": "^2.2.1",
-    "mongoose": "^4.11.7"
+    "mongoose": "^4.11.7",
+    "sendgrid": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
